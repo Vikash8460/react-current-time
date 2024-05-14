@@ -1,6 +1,6 @@
 # React Current Time
 
-![cover](../src/current-time.gif)
+![cover](react-current-time/src/current-time.gif)
 
 ## 🦉 Main information
 
